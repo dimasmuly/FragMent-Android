@@ -1,1 +1,3 @@
-# FragMent-Android
+NAMA : DIMAS MULYA
+NIM : E41201045
+GOL : TIF A BWS
